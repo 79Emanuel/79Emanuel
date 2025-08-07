@@ -5,6 +5,16 @@
 
 ---
 
+### 🧠 Sobre mim
+
+Sou estudante de Ciência da Computação na Universidade de Mogi das Cruzes (UMC).  
+Prefiro aprender com consistência, buscando sempre entender o "porquê" antes do "como".
+
+Atualmente estou focado em **JavaScript** e **Java**, criando aplicações com atenção à organização, clareza e boas práticas.  
+Acredito que programar vai além de escrever código: é pensar com lógica, evitar complicações desnecessárias e encontrar soluções eficientes.
+
+---
+
 ### 🧠 Stack
 
 <div style="display: flex; align-items: center;">
