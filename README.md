@@ -5,9 +5,9 @@
 <img src="https://github.com/79Emanuel/79Emanuel/blob/main/Kaworu%20Nagisa.jpg" width="500" />
 </p>
 
-<i><h1 align="center">
+<i><h3 align="center">
 > *"A maior parte dos fracassos reais se devem a limitações que os homens impõem a si mesmo!"*
-</h1></i>
+</h3></i>
 ---
 
 ### 🧠 Sobre mim
