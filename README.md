@@ -7,7 +7,7 @@
 
 ### 🧠 Sobre mim
 
-Sou estudante de Ciência da Computação na Universidade de Mogi das Cruzes (UMC).  
+Sou estudante de Ciência da Computação (ADS) na Universidade de Mogi das Cruzes (UMC).  
 Prefiro aprender com consistência, buscando sempre entender o "porquê" antes do "como".
 
 Atualmente estou focado em **JavaScript** e **Java**, criando aplicações com atenção à organização, clareza e boas práticas.  
