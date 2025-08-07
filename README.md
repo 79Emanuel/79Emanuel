@@ -15,7 +15,7 @@ Acredito que programar vai além de escrever código: é pensar com lógica, evi
 
 ---
 
-### 🧠 Stack
+### 🧠 Learning
 
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
