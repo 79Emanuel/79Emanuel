@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">acyZ | Front-End Developer</h1>
 
-<img src="https://github.com/79Emanuel/79Emanuel/blob/main/Kaworu%20Nagisa.jpg" width="70" />
+<img align="center" src="https://github.com/79Emanuel/79Emanuel/blob/main/Kaworu%20Nagisa.jpg" width="200" />
 
 > *"A maior parte dos fracassos reais se devem a limitações que os homens impõem a si mesmo!"*
 
